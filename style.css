@@ -1,0 +1,42 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+._4khoi {
+    width: 1050px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.lop-cha .phai p {
+    color: gray;
+    margin-top: 10px;
+}
+
+.lop-cha .phai h4 {
+    font-size: 18px;
+}
+
+.lop-cha .phai {
+    width: 300px;
+}
+
+.lop-cha .trai img {
+    width: 100%;
+}
+
+.lop-cha .trai {
+    width: 180px;
+}
+
+.lop-cha {
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    border-bottom: 1px solid gray;
+    padding-bottom: 20px;
+}
